@@ -38,7 +38,7 @@ Virtual Environment im Home-Verzeichnis erstellen:
 
 ```bash
 cd ~
-python3.11 -m venv venv
+python3.11 -m venv py3.11-venv
 ```
 
 ---
@@ -46,7 +46,7 @@ python3.11 -m venv venv
 ## 3. Virtual Environment aktivieren
 
 ```bash
-source ~/venv/bin/activate
+source ~/py3.11-venv/bin/activate
 ```
 
 ---
